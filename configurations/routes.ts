@@ -1,12 +1,12 @@
 const routes = [
   {
-    path: "/cfp",
-    name: "Call for Proposals",
+    path: "/code-of-conduct",
+    name: "Code of conduct",
     disabled: false,
   },
   {
-    path: "/code-of-conduct",
-    name: "Code of conduct",
+    path: "/tutorials",
+    name: "Tutorials",
     disabled: false,
   },
   {
